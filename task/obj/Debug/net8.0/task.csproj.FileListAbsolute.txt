@@ -1,0 +1,14 @@
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\bin\Debug\net8.0\task.exe
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\bin\Debug\net8.0\task.deps.json
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\bin\Debug\net8.0\task.runtimeconfig.json
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\bin\Debug\net8.0\task.dll
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\bin\Debug\net8.0\task.pdb
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\obj\Debug\net8.0\task.dll
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\obj\Debug\net8.0\refint\task.dll
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\obj\Debug\net8.0\task.pdb
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+D:\#Документы\#GeekBrains\1 Первая четверть. Разработчик. Основной Блок\# Итоговая контрольная работа по основному блоку\Final_test_first_quarter_VK\task\obj\Debug\net8.0\ref\task.dll
